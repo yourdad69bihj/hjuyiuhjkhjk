@@ -1,0 +1,17 @@
+{
+  "name": "JS STATE TRACKER",
+  "short_name": "JS-Track",
+  "description": "Statewide Offender Registry Monitor",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#00ff88",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/nolan/512/marker.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
